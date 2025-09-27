@@ -1,43 +1,43 @@
 [
   {
-    "usuario": "usuario_alpha_001",
-    "password": "aO997ukaWhLFCXRq",
-    "expira": "2026-01-27"
+    "usuario": "SoporteZebi",
+    "password": "Soporte",
+    "expira": "2025-10-01"
   },
   {
-    "usuario": "usuario_alpha_002",
+    "usuario": "Powercell",
     "password": "mQ42tYpLxZkR8wNa",
     "expira": "2026-01-27"
   },
   {
-    "usuario": "usuario_alpha_003",
+    "usuario": "Ricardo09",
     "password": "Xy7nPq93LmVaTzWb",
     "expira": "2026-01-27"
   },
   {
-    "usuario": "usuario_alpha_004",
+    "usuario": "Quantum12",
     "password": "hT62kLmQpXzR9vNa",
     "expira": "2026-01-27"
   },
   {
-    "usuario": "usuario_alpha_005",
+    "usuario": "Deivisoft",
     "password": "Zp8wLm34QrTyXnVa",
     "expira": "2026-01-27"
   },
   {
-    "usuario": "usuario_beta_001",
+    "usuario": "Marlon11",
     "password": "nV5xQz72LpRaWmTy",
-    "expira": "2026-03-27"
+    "expira": "2026-01-27"
   },
   {
-    "usuario": "usuario_beta_002",
+    "usuario": "Andercontreras",
     "password": "kL93tYxWpQzMnRaV",
-    "expira": "2026-03-27"
+    "expira": "2026-01-27"
   },
   {
-    "usuario": "usuario_beta_003",
-    "password": "rT84LmQpXzNaVwBy",
-    "expira": "2026-03-27"
+    "usuario": "ProMovil",
+    "password": "ProMovil234",
+    "expira": "2025-10-05"
   },
   {
     "usuario": "usuario_beta_004",
@@ -52,6 +52,6 @@
   {
     "usuario": "Dani",
     "password": "mdm1",
-    "expira": "2025-09-26"
+    "expira": "2025-09-30"
   }
 ]
