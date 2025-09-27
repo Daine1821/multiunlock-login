@@ -1,0 +1,52 @@
+[
+  {
+    "usuario": "usuario_alpha_001",
+    "password": "aO997ukaWhLFCXRq",
+    "expira": "2026-01-27"
+  },
+  {
+    "usuario": "usuario_alpha_002",
+    "password": "mQ42tYpLxZkR8wNa",
+    "expira": "2026-01-27"
+  },
+  {
+    "usuario": "usuario_alpha_003",
+    "password": "Xy7nPq93LmVaTzWb",
+    "expira": "2026-01-27"
+  },
+  {
+    "usuario": "usuario_alpha_004",
+    "password": "hT62kLmQpXzR9vNa",
+    "expira": "2026-01-27"
+  },
+  {
+    "usuario": "usuario_alpha_005",
+    "password": "Zp8wLm34QrTyXnVa",
+    "expira": "2026-01-27"
+  },
+  {
+    "usuario": "usuario_beta_001",
+    "password": "nV5xQz72LpRaWmTy",
+    "expira": "2026-03-27"
+  },
+  {
+    "usuario": "usuario_beta_002",
+    "password": "kL93tYxWpQzMnRaV",
+    "expira": "2026-03-27"
+  },
+  {
+    "usuario": "usuario_beta_003",
+    "password": "rT84LmQpXzNaVwBy",
+    "expira": "2026-03-27"
+  },
+  {
+    "usuario": "usuario_beta_004",
+    "password": "Wm72QzLpRaTyXnVb",
+    "expira": "2026-03-27"
+  },
+  {
+    "usuario": "usuario_beta_005",
+    "password": "pX63LmNaQzTyRvWb",
+    "expira": "2026-03-27"
+  }
+]
