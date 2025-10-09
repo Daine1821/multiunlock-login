@@ -5,15 +5,6 @@
     "expira": "2026-01-01"
   },
   {
-    "usuario": "Celularesricahrrd",
-    "password": "local1b",
-    "expira": "2026-02-09"
-  },
-  {
-    "usuario": "SMARTLAB",
-    "password": "EGUZMAN6139",
-    "expira": "2026-02-09"
-  {
     "usuario": "Powercell",
     "password": "mQ42tYpLxZkR8wNa",
     "expira": "2026-07-27"
@@ -62,5 +53,15 @@
     "usuario": "Dani",
     "password": "mdm1",
     "expira": "2026-09-30"
+  },
+  {
+    "usuario": "Celularesricahrrd",
+    "password": "local1b",
+    "expira": "2026-02-09"
+  },
+  {
+    "usuario": "SMARTLAB",
+    "password": "EGUZMAN6139",
+    "expira": "2026-02-09"
   }
 ]
