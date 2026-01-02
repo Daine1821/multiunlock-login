@@ -633,5 +633,10 @@
     "usuario": "Damian",
     "password": "Enr1quez",
     "expira": "2026-05-02"
+  },
+  {
+    "usuario": "Luiscera",
+    "password": "Luis@0521",
+    "expira": "2026-05-02"
   }
 ]
